@@ -1,0 +1,2 @@
+# machine-learning-basic-models-applications-
+In this repository, I apply different machine learning models to predict the length of stay (LOS) of patients that enter an ICU.  I worked with the Medical Information Mart for Intensive Care III (MIMIC) dataset (https://mimic.physionet.org/).  In both projects, I show how to do some cool feature engineering and implement models for regression and classification problems using scikit learn library.
